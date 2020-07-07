@@ -1,0 +1,1 @@
+Practice for https://habr.com/en/company/drweb/blog/452076/
